@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Areas name="PoopTroop">
+  <Help>poopy pants are what happens when you poopy can'ts control your bowels</Help>
+  <Area name="Kakariko" tab="ALTTP">
+    <Loc>Light World North West</Loc>
+    <SubLoc>Library</SubLoc>
+    <SubLoc>Maze Race</SubLoc>
+  </Area>
+  <Area name="South Light World" tab="ALTTP">
+    <Loc>Light World South</Loc>
+  </Area>
+  <Area name="Northeast Light World" tab="ALTTP">
+    <Loc>Light World North East</Loc>
+    <SubLoc>Hobo</SubLoc>
+    <SubLoc>Lake Hylia Island</SubLoc>
+  </Area>
+  <Area name="Hyrule Castle" tab="ALTTP">
+    <Loc>Hyrule Castle</Loc>
+  </Area>
+  <Area name="Death Mountain" tab="ALTTP">
+    <Loc>Light World Death Mountain West</Loc>
+    <Loc>Light World Death Mountain East</Loc>
+  </Area>
+  <Area name="Eastern Palace" tab="ALTTP">
+    <Loc>Eastern Palace</Loc>
+  </Area>
+  <Area name="Desert Palcae" tab="ALTTP">
+    <Loc>Desert Palace</Loc>
+  </Area>
+  <Area name="Tower of Hera" tab="ALTTP">
+    <Loc>Tower of Hera</Loc>
+  </Area>
+  <Area name="Dark World" tab="ALTTP">
+    <Loc>Dark World North West</Loc>
+    <Loc>Dark World North East</Loc>
+    <Loc>Dark World South</Loc>
+    <Loc>Dark World Mire</Loc>
+    <SubLoc>South of Grove</SubLoc>
+    <SubLoc>Graveyard Ledge</SubLoc>
+    <SubLoc>Bombos Tablet</SubLoc>
+  </Area>
+  <Area name="Dark Death Mountain" tab="ALTTP">
+    <Loc>Dark World Death Mountain West</Loc>
+    <Loc>Dark World Death Mountain East</Loc>
+  </Area>
+  <Area name="Palace of Darkness" tab="ALTTP">
+    <Loc>Palace of Darkness</Loc>
+  </Area>
+  <Area name="Swamp Palace" tab="ALTTP">
+    <Loc>Swamp Palace</Loc>
+  </Area>
+  <Area name="Skull Woods" tab="ALTTP">
+    <Loc>Skull Woods</Loc>
+    <SubLoc>Checkerboard Cave</SubLoc>
+  </Area>
+  <Area name="Thieves' Town" tab="ALTTP">
+    <Loc>Thieves' Town</Loc>
+  </Area>
+  <Area name="Ice Palace" tab="ALTTP">
+    <Loc>Ice Palace</Loc>
+  </Area>
+  <Area name="Misery Mire" tab="ALTTP">
+    <Loc>Misery Mire</Loc>
+  </Area>
+  <Area name="Turtle Rock" tab="ALTTP">
+    <Loc>Turtle Rock</Loc>
+  </Area>
+  <Area name="Ganon's Tower" tab="ALTTP">
+    <Loc>Ganon's Tower</Loc>
+    <SubLoc>Missile (lower Norfair above fire flea room)</SubLoc>
+    <SubLoc>Power Bomb (lower Norfair above fire flea room)</SubLoc>
+  </Area>
+  <Area name="TheWholeDamnGame" tab="CutieCoaching">
+    <Loc>Crateria West</Loc>
+    <Loc>Crateria Central</Loc>
+    <Loc>Crateria East</Loc>
+    <Loc>Brinstar Blue</Loc>
+    <Loc>Brinstar Green</Loc>
+    <Loc>Brinstar Pink</Loc>
+    <Loc>Brinstar Red</Loc>
+    <Loc>Brinstar Kraid</Loc>
+    <Loc>Wrecked Ship</Loc>
+    <Loc>Maridia Outer</Loc>
+    <Loc>Maridia Inner</Loc>
+    <Loc>Norfair Upper West</Loc>
+    <Loc>Norfair Upper East</Loc>
+    <Loc>Norfair Upper Crocomire</Loc>
+    <Loc>Norfair Lower West</Loc>
+    <Loc>Norfair Lower East</Loc>
+  </Area>
+</Areas>
