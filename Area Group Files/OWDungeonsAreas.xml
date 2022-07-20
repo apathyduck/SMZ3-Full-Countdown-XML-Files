@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Areas name="OWDungeons">
+  <Help>
+  The purpose of these areas are to group the dungeons into their respective Overworlds, in attempt to make dungeon scouting slightly less powerfull.
+  
+  The dividing line between East and West Light World is the River to the East of the Castle. If you are in the same screen as the river you are in East. If you spproach from the south (by the dam) the line is when you enter the screen with Lake Hylia.
+  
+  Desert is everything on the 1 desert OW screen (including checkerboard).
+  
+  Death Mountain Begins when you enter Old Man Cave.
+  
+  Dark Death Mountain contains everything besdies GT (GT remains special)
+  
+  Village of Outcasts is everything West of the River and North of the Swamp/Lake areaset
+  
+  Dark Swamp is the Swamp Area + Dark Lake Hylia
+  
+  East DW is everything to the East of the River + Pyramid Screen
+  
+  Dark Mire is the Misery Mire area
+  
+  Some SM areas are also smaller than the defaults
+  
+  Brinstar has been split into Green/Pink and Red/Kraid
+  
+  Maidia contain East Maridia and West Maridia as sub areas (these should be the same areas as in SMR)
+  For those of you unaware East Mairida begins when you enter Aquaduct. From below if you return through the broken tube that screen begins West Mairida (the same screen as the door to the map)
+  
+  Crocomire and UN are now seperate.
+  
+  
+  
+  </Help>
+  <Area name="Crateria" tab="SM">
+    <Loc>Crateria West</Loc>
+    <Loc>Crateria Central</Loc>
+    <Loc>Brinstar Blue</Loc>
+    <SubLoc>Missile (Crateria moat)</SubLoc>
+  </Area>
+  <Area name="Green/Pink Brinstar" tab="SM">
+    <Loc>Brinstar Green</Loc>
+    <Loc>Brinstar Pink</Loc>
+  </Area>
+  <Area name="Red Brinstar and Kraid" tab="SM">
+    <Loc>Brinstar Red</Loc>
+    <Loc>Brinstar Kraid</Loc>
+  </Area>
+  <Area name="Wrecked Ship" tab="SM">
+    <Loc>Crateria East</Loc>
+    <Loc>Wrecked Ship</Loc>
+  </Area>
+  <Area name="West Maridia" tab="SM">
+    <Loc>Maridia Outer</Loc>
+    <SubLoc>Super Missile (yellow Maridia)</SubLoc>
+    <SubLoc>Missile (yellow Maridia super missile)</SubLoc>
+    <SubLoc>Missile (yellow Maridia false wall)</SubLoc>
+  </Area>
+  <Area name="East Maridia" tab="SM">
+    <Loc>Maridia Inner</Loc>
+    <SubLoc>Space Jump</SubLoc>
+    <SubLoc>Missile (Draygon)</SubLoc>
+    <SubLoc>"Energy Tank, Botwoon"</SubLoc>
+    <SubLoc>Spring Ball</SubLoc>
+    <SubLoc>Plasma Beam</SubLoc>
+  </Area>
+  <Area name="Upper Norfair" tab="SM">
+    <Loc>Norfair Upper West</Loc>
+    <Loc>Norfair Upper East</Loc>
+    <SubLoc>Missile (above Crocomire)</SubLoc>
+  </Area>
+  <Area name="Crocomire" tab="SM">
+    <Loc>Norfair Upper Crocomire</Loc>
+  </Area>
+  <Area name="Lower Norfair" tab="SM">
+    <Loc>Norfair Lower West</Loc>
+    <Loc>Norfair Lower East</Loc>
+  </Area>
+  <Area name="West LW" tab="ALTTP">
+    <Loc>Light World North West</Loc>
+    <Loc>Castle Tower</Loc>
+    <Loc>Hyrule Castle</Loc>
+    <SubLoc>Maze Race</SubLoc>
+    <SubLoc>Library</SubLoc>
+    <SubLoc>Flute Spot</SubLoc>
+    <SubLoc>South of Grove</SubLoc>
+    <SubLoc>Link's House</SubLoc>
+    <SubLoc>Sunken Treasure</SubLoc>
+    <SubLoc>Floodgate Chest</SubLoc>
+  </Area>
+  <Area name="East LW" tab="ALTTP">
+    <Loc>Eastern Palace</Loc>
+    <Loc>Light World North East</Loc>
+    <Loc>Light World South</Loc>
+    <SubLoc>Mini Moldorm Cave - Far Left</SubLoc>
+    <SubLoc>Mini Moldorm Cave - Left</SubLoc>
+    <SubLoc>Mini Moldorm Cave - NPC</SubLoc>
+    <SubLoc>Mini Moldorm Cave - Right</SubLoc>
+    <SubLoc>Mini Moldorm Cave - Far Right</SubLoc>
+    <SubLoc>Lake Hylia Island</SubLoc>
+    <SubLoc>Ice Rod Cave</SubLoc>
+    <SubLoc>Hobo</SubLoc>
+  </Area>
+  <Area name="Desert" tab="ALTTP">
+    <Loc>Desert Palace</Loc>
+    <SubLoc>Bombos Tablet</SubLoc>
+    <SubLoc>Desert Ledge</SubLoc>
+    <SubLoc>Aginah's Cave</SubLoc>
+    <SubLoc>Checkerboard Cave</SubLoc>
+  </Area>
+  <Area name="Death Mountain" tab="ALTTP">
+    <Loc>Light World Death Mountain West</Loc>
+    <Loc>Light World Death Mountain East</Loc>
+    <Loc>Tower of Hera</Loc>
+  </Area>
+  <Area name="East DW" tab="ALTTP">
+    <Loc>Palace of Darkness</Loc>
+    <Loc>Dark World North East</Loc>
+  </Area>
+  <Area name="Village of Outcasts" tab="ALTTP">
+    <Loc>Thieves' Town</Loc>
+    <Loc>Dark World North West</Loc>
+    <Loc>Skull Woods</Loc>
+    <SubLoc>Stumpy</SubLoc>
+    <SubLoc>Digging Game</SubLoc>
+  </Area>
+    <Area name="Dark Swamp" tab="ALTTP">
+    <Loc>Swamp Palace</Loc>
+    <Loc>Dark World South</Loc>
+    <Loc>Ice Palace</Loc>
+  </Area>
+   <Area name="Misery Mire" tab="ALTTP">
+    <Loc>Dark World Mire</Loc>
+    <Loc>Misery Mire</Loc>
+  </Area>
+  <Area name="Dark Death Mountain" tab="ALTTP">
+    <Loc>Dark World Death Mountain West</Loc>
+    <Loc>Dark World Death Mountain East</Loc>
+    <Loc>Turtle Rock</Loc>
+  </Area> 
+  <Area name="Ganon's Tower" tab="ALTTP">
+    <Loc>Ganon's Tower</Loc>
+  </Area>
+  
+</Areas>
