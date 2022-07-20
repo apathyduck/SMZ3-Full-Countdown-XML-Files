@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Majors name="mm2Keys">
+  <Help>
+    All SM Majors (All Pause menu items + grapple and xray)
+    All  ALLTP Y,A Items
+    Swords, Shields, Mails and Half Magic
+    Single Arrow is not included.
+    No shields either because fuck shields.
+    Keys included because this grouping is designed for keysanity.
+  </Help>
+  <!--SM Items-->
+  <Item>Morphing Ball</Item>
+  <Item>Morph Bombs</Item>
+  <Item>Spring Ball</Item>
+  <Item>Charge Beam</Item>
+  <Item>Ice Beam</Item>
+  <Item>Spazer</Item>
+  <Item>Wave Beam</Item>
+  <Item>Plasma Beam</Item>
+  <Item>Varia Suit</Item>
+  <Item>Gravity Suit</Item>
+  <Item>Hi-Jump Boots</Item>
+  <Item>Space Jump</Item>
+  <Item>Speed Booster</Item>
+  <Item>Screw Attack</Item>
+  <Item>Grappling Beam</Item>
+  <Item>X-Ray Scope</Item>
+  <!--ALTTP Y Items-->
+  <Item>Bow</Item>
+  <Item>Silver Arrows</Item>
+  <Item>Blue Boomerang</Item>
+  <Item>Red Boomerang</Item>
+  <Item>Hookshot</Item>
+  <Item>Magic Powder</Item>
+  <Item>Mushroom</Item>
+  <Item>Fire Rod</Item>
+  <Item>Ice Rod</Item>
+  <Item>Bombos</Item>
+  <Item>Ether</Item>
+  <Item>Quake</Item>
+  <Item>Lamp</Item>
+  <Item>Hammer</Item>
+  <Item>Flute</Item>
+  <Item>Shovel</Item>
+  <Item>Bug Catching Net</Item>
+  <Item>Book of Mudora</Item>
+  <Item>Bottle</Item>
+  <Item>Cane of Somaria</Item>
+  <Item>Cane of Byrna</Item>
+  <Item>Magic Cape</Item>
+  <Item>Magic Mirror</Item>
+  <!--ALTTP A Items-->
+  <Item>Pegasus Boots</Item>
+  <Item>Progressive Glove</Item>
+  <Item>Zora's Flippers</Item>
+  <Item>Moon Pearl</Item>
+  <!--ALTTP Other Items-->
+  <Item>Half Magic</Item>
+  <Item>Progressive Sword</Item>
+  <Item>Progressive Mail</Item>
+  <!--ALTTP Small Keys-->
+  <Item>Sewer Key</Item>
+  <Item>Desert Palace Key</Item>
+  <Item>Tower of Hera Key</Item>
+  <Item>Castle Tower Key</Item>
+  <Item>Palace of Darkness Key</Item>
+  <Item>Swamp Palace Key</Item>
+  <Item>Skull Woods Key</Item>
+  <Item>Thieves Town Key</Item>
+  <Item>Ice Palace Key</Item>
+  <Item>Misery Mire Key</Item>
+  <Item>Turtle Rock Key</Item>
+  <Item>Ganons Tower Key</Item>
+  <!--ALTTP Big Keys-->
+  <Item>Desert Palace Big Key</Item>
+  <Item>Tower of Hera Big Key</Item>
+  <Item>Palace of Darkness Big Key</Item>
+  <Item>Swamp Palace Big Key</Item>
+  <Item>Skull Woods Big Key</Item>
+  <Item>Thieves Town Big Key</Item>
+  <Item>Ice Palace Big Key</Item>
+  <Item>Misery Mire Big Key</Item>
+  <Item>Turtle Rock Big Key</Item>
+  <Item>Ganons Tower Big Key</Item>
+  <!--SM Keycards-->
+  <Item>Crateria Level 1 Keycard</Item>
+  <Item>Crateria Level 2 Keycard</Item>
+  <Item>Crateria Boss Keycard</Item>
+  <Item>Brinstar Level 1 Keycard</Item>
+  <Item>Brinstar Level 2 Keycard</Item>
+  <Item>Brinstar Boss Keycard</Item>
+  <Item>Wrecked Ship Level 1 Keycard</Item>
+  <Item>Wrecked Ship Boss Keycard</Item>
+  <Item>Maridia Level 1 Keycard</Item>
+  <Item>Maridia Level 2 Keycard</Item>
+  <Item>Maridia Boss Keycard</Item>
+  <Item>Norfair Level 1 Keycard</Item>
+  <Item>Norfair Level 2 Keycard</Item>
+  <Item>Norfair Boss Keycard</Item>
+  <Item>Lower Norfair Level 1 Keycard</Item>
+  <Item>Lower Norfair Boss Keycard</Item>
+</Majors>
