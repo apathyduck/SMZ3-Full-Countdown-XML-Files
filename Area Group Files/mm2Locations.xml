@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Areas name="mm2">
+  <Help>
+    For ALTTP:
+    Kakariko includes standard Kakariko definition (the 13 checks + sick kid), magic bat, library/maze race, lost woods/ped, lumberjack, bonk rocks, and king's tomb.
+    South Light World includes Link's House, shovel check, aginah/desert ledge, and dam/mini moldorm/ice rod cave.
+    Northeast Light World includes Lake Hylia Island, Hobo, sasha's hut/gp turn in, mushroom turn in, and Zora's Domain.
+
+    Death Mountain Starts when you enter Old Man Cave and then the rest of DM
+    Death Mountain includes Mimic Cave and Floating Island
+
+    Dark World is everything not on Dark Death Mountain
+    You can scout the Dark Death Mountain count by using the portal on DM below Hera
+    Cave 45, Graveyard Ledge, Checkerboard Cave, and Bombos Tablet are Dark World
+    Smith and Purple Chest are Dark World
+    The Mire Area is Dark World (just the 2 checks in shed)
+
+    Escape includes the 2 Uncle checks
+
+    The Dungeons should be obvious (you can scout SP without mirror and reveal its items)
+
+    SM should Follow the SM FC closely but has larger areas:
+    Crateria Includes Crateria up to the far moat door (moat missles is in Crat)
+    Crateria ALSO includes Blue Brin
+
+    Green/Pink Brinstar is Green + Pink Brinstar
+    
+    Red Brinstar and Kraid are combined
+
+    Wrecked Ship is all of Wrecked Ship proper + Outside Crateria
+    You can scout wrecked ship by going across the moat to West Ocean. (this is earlier than you can see if Phantoon is a pendant/crystal)
+    If for some headass reason you go through Forgotten Highway the offical Maridia/WS split is on the elevator
+
+    Back Maridia is Botwoon tank, precious missile, space, plasma, and springball. Front Maridia is everything else in Maridia.
+    You must actually break the tube and enter Maridia to scout it. Running through the tube does not count.
+
+    Upper Norfair is Ice/HJB/Croc Escape/Cathedral/Bubble Mountain
+    Crocomire is the 5 items that require a Croc kill to access
+    You must ride the elevator down to Norfair to Scout Norfair (just going to Kraid doesnt count)
+    Lower Norfair does not begin until you ride the elevator to LN so you cant scout it just by doing lava dive.
+
+    Lower Norfair is all of Lower Norfair.
+    Upper Norfair begins again when you enter back into Single Chamber.
+  </Help>
+  <Area name="Crateria" game="SM">
+    <Loc>Crateria West</Loc>
+    <Loc>Crateria Central</Loc>
+    <Loc>Brinstar Blue</Loc>
+    <SubLoc>Missile (Crateria moat)</SubLoc>
+  </Area>
+  <Area name="Green/Pink Brinstar" game="SM">
+    <Loc>Brinstar Green</Loc>
+    <Loc>Brinstar Pink</Loc>
+  </Area>
+  <Area name="Red Brinstar and Kraid" game="SM">
+    <Loc>Brinstar Red</Loc>
+    <Loc>Brinstar Kraid</Loc>
+  </Area>
+  <Area name="Wrecked Ship" game="SM">
+    <Loc>Crateria East</Loc>
+    <Loc>Wrecked Ship</Loc> 
+  </Area>
+  <Area name="Front Maridia" game="SM">
+    <Loc>Maridia Outer</Loc>
+    <Loc>Maridia Inner</Loc>
+  </Area>
+  <Area name="Back Maridia" game="SM">
+    <SubLoc>Space Jump</SubLoc>
+    <SubLoc>Missile (Draygon)</SubLoc>
+    <SubLoc>"Energy Tank, Botwoon"</SubLoc>
+    <SubLoc>Spring Ball</SubLoc>
+    <SubLoc>Plasma Beam</SubLoc>
+  </Area>
+  <Area name="Upper Norfair" game="SM">
+    <Loc>Norfair Upper West</Loc>
+    <Loc>Norfair Upper East</Loc>
+    <SubLoc>Missile (above Crocomire)</SubLoc>
+  </Area>
+  <Area name="Crocomire" game="SM">
+    <Loc>Norfair Upper Crocomire</Loc>
+  </Area>
+  <Area name="Lower Norfair" game="SM">
+    <Loc>Norfair Lower West</Loc>
+    <Loc>Norfair Lower East</Loc>
+  </Area>
+  <Area name="Kakariko" game="ALTTP">
+    <Loc>Light World North West</Loc>
+    <SubLoc>Library</SubLoc>
+    <SubLoc>Maze Race</SubLoc>
+  </Area>
+  <Area name="South Light World" game="ALTTP">
+    <Loc>Light World South</Loc>
+  </Area>
+  <Area name="Northeast Light World" game="ALTTP">
+    <Loc>Light World North East</Loc>
+    <SubLoc>Hobo</SubLoc>
+    <SubLoc>Lake Hylia Island</SubLoc>
+  </Area>
+  <Area name="Hyrule Castle" game="ALTTP">
+    <Loc>Hyrule Castle</Loc> 
+  </Area>
+  <Area name="Death Mountain" game="ALTTP">
+    <Loc>Light World Death Mountain West</Loc>
+    <Loc>Light World Death Mountain East</Loc>
+  </Area>
+  <Area name="Eastern Palace" game="ALTTP">
+    <Loc>Eastern Palace</Loc>
+  </Area>
+  <Area name="Desert Palcae" game="ALTTP">
+    <Loc>Desert Palace</Loc>
+  </Area>
+  <Area name="Tower of Hera" game="ALTTP">
+    <Loc>Tower of Hera</Loc>
+  </Area>
+  <Area name="Dark World" game="ALTTP">
+    <Loc>Dark World North West</Loc>
+    <Loc>Dark World North East</Loc>
+    <Loc>Dark World South</Loc>
+    <Loc>Dark World Mire</Loc>
+    <SubLoc>South of Grove</SubLoc>
+    <SubLoc>Graveyard Ledge</SubLoc>
+    <SubLoc>Bombos Tablet</SubLoc>
+    <SubLoc>Checkerboard Cave</SubLoc>
+  </Area>
+  <Area name="Dark Death Mountain" game="ALTTP">
+    <Loc>Dark World Death Mountain West</Loc>
+    <Loc>Dark World Death Mountain East</Loc>
+  </Area>
+  <Area name="Palace of Darkness" game="ALTTP">
+    <Loc>Palace of Darkness</Loc>
+  </Area>
+  <Area name="Swamp Palace" game="ALTTP">
+    <Loc>Swamp Palace</Loc>
+  </Area>
+  <Area name="Skull Woods" game="ALTTP">
+    <Loc>Skull Woods</Loc>
+  </Area>
+  <Area name="Thieves' Town" game="ALTTP">
+    <Loc>Thieves' Town</Loc>
+  </Area>
+  <Area name="Ice Palace" game="ALTTP">
+    <Loc>Ice Palace</Loc>
+  </Area>
+  <Area name="Misery Mire" game="ALTTP">
+    <Loc>Misery Mire</Loc>
+  </Area>
+  <Area name="Turtle Rock" game="ALTTP">
+    <Loc>Turtle Rock</Loc>
+  </Area>
+  <Area name="Ganon's Tower" game="ALTTP">
+    <Loc>Ganon's Tower</Loc>
+  </Area>
+</Areas>
