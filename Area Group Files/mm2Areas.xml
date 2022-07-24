@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Areas name="mm2">
   <Help>
     For ALTTP:
@@ -42,77 +42,77 @@
     Lower Norfair is all of Lower Norfair.
     Upper Norfair begins again when you enter back into Single Chamber.
   </Help>
-  <Area name="Crateria" game="SM">
+  <Area name="Crateria" tab="SM">
     <Loc>Crateria West</Loc>
     <Loc>Crateria Central</Loc>
     <Loc>Brinstar Blue</Loc>
     <SubLoc>Missile (Crateria moat)</SubLoc>
   </Area>
-  <Area name="Green/Pink Brinstar" game="SM">
+  <Area name="Green/Pink Brinstar" tab="SM">
     <Loc>Brinstar Green</Loc>
     <Loc>Brinstar Pink</Loc>
   </Area>
-  <Area name="Red Brinstar and Kraid" game="SM">
+  <Area name="Red Brinstar and Kraid" tab="SM">
     <Loc>Brinstar Red</Loc>
     <Loc>Brinstar Kraid</Loc>
   </Area>
-  <Area name="Wrecked Ship" game="SM">
+  <Area name="Wrecked Ship" tab="SM">
     <Loc>Crateria East</Loc>
     <Loc>Wrecked Ship</Loc> 
   </Area>
-  <Area name="Front Maridia" game="SM">
+  <Area name="Front Maridia" tab="SM">
     <Loc>Maridia Outer</Loc>
     <Loc>Maridia Inner</Loc>
   </Area>
-  <Area name="Back Maridia" game="SM">
+  <Area name="Back Maridia" tab="SM">
     <SubLoc>Space Jump</SubLoc>
     <SubLoc>Missile (Draygon)</SubLoc>
     <SubLoc>"Energy Tank, Botwoon"</SubLoc>
     <SubLoc>Spring Ball</SubLoc>
     <SubLoc>Plasma Beam</SubLoc>
   </Area>
-  <Area name="Upper Norfair" game="SM">
+  <Area name="Upper Norfair" tab="SM">
     <Loc>Norfair Upper West</Loc>
     <Loc>Norfair Upper East</Loc>
     <SubLoc>Missile (above Crocomire)</SubLoc>
   </Area>
-  <Area name="Crocomire" game="SM">
+  <Area name="Crocomire" tab="SM">
     <Loc>Norfair Upper Crocomire</Loc>
   </Area>
-  <Area name="Lower Norfair" game="SM">
+  <Area name="Lower Norfair" tab="SM">
     <Loc>Norfair Lower West</Loc>
     <Loc>Norfair Lower East</Loc>
   </Area>
-  <Area name="Kakariko" game="ALTTP">
+  <Area name="Kakariko" tab="ALTTP">
     <Loc>Light World North West</Loc>
     <SubLoc>Library</SubLoc>
     <SubLoc>Maze Race</SubLoc>
   </Area>
-  <Area name="South Light World" game="ALTTP">
+  <Area name="South Light World" tab="ALTTP">
     <Loc>Light World South</Loc>
   </Area>
-  <Area name="Northeast Light World" game="ALTTP">
+  <Area name="Northeast Light World" tab="ALTTP">
     <Loc>Light World North East</Loc>
     <SubLoc>Hobo</SubLoc>
     <SubLoc>Lake Hylia Island</SubLoc>
   </Area>
-  <Area name="Hyrule Castle" game="ALTTP">
+  <Area name="Hyrule Castle" tab="ALTTP">
     <Loc>Hyrule Castle</Loc> 
   </Area>
-  <Area name="Death Mountain" game="ALTTP">
+  <Area name="Death Mountain" tab="ALTTP">
     <Loc>Light World Death Mountain West</Loc>
     <Loc>Light World Death Mountain East</Loc>
   </Area>
-  <Area name="Eastern Palace" game="ALTTP">
+  <Area name="Eastern Palace" tab="ALTTP">
     <Loc>Eastern Palace</Loc>
   </Area>
-  <Area name="Desert Palcae" game="ALTTP">
+  <Area name="Desert Palcae" tab="ALTTP">
     <Loc>Desert Palace</Loc>
   </Area>
-  <Area name="Tower of Hera" game="ALTTP">
+  <Area name="Tower of Hera" tab="ALTTP">
     <Loc>Tower of Hera</Loc>
   </Area>
-  <Area name="Dark World" game="ALTTP">
+  <Area name="Dark World" tab="ALTTP">
     <Loc>Dark World North West</Loc>
     <Loc>Dark World North East</Loc>
     <Loc>Dark World South</Loc>
@@ -122,32 +122,32 @@
     <SubLoc>Bombos Tablet</SubLoc>
     <SubLoc>Checkerboard Cave</SubLoc>
   </Area>
-  <Area name="Dark Death Mountain" game="ALTTP">
+  <Area name="Dark Death Mountain" tab="ALTTP">
     <Loc>Dark World Death Mountain West</Loc>
     <Loc>Dark World Death Mountain East</Loc>
   </Area>
-  <Area name="Palace of Darkness" game="ALTTP">
+  <Area name="Palace of Darkness" tab="ALTTP">
     <Loc>Palace of Darkness</Loc>
   </Area>
-  <Area name="Swamp Palace" game="ALTTP">
+  <Area name="Swamp Palace" tab="ALTTP">
     <Loc>Swamp Palace</Loc>
   </Area>
-  <Area name="Skull Woods" game="ALTTP">
+  <Area name="Skull Woods" tab="ALTTP">
     <Loc>Skull Woods</Loc>
   </Area>
-  <Area name="Thieves' Town" game="ALTTP">
+  <Area name="Thieves' Town" tab="ALTTP">
     <Loc>Thieves' Town</Loc>
   </Area>
-  <Area name="Ice Palace" game="ALTTP">
+  <Area name="Ice Palace" tab="ALTTP">
     <Loc>Ice Palace</Loc>
   </Area>
-  <Area name="Misery Mire" game="ALTTP">
+  <Area name="Misery Mire" tab="ALTTP">
     <Loc>Misery Mire</Loc>
   </Area>
-  <Area name="Turtle Rock" game="ALTTP">
+  <Area name="Turtle Rock" tab="ALTTP">
     <Loc>Turtle Rock</Loc>
   </Area>
-  <Area name="Ganon's Tower" game="ALTTP">
+  <Area name="Ganon's Tower" tab="ALTTP">
     <Loc>Ganon's Tower</Loc>
   </Area>
 </Areas>
