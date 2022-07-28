@@ -1,0 +1,144 @@
+<Areas name="farfelu">
+  <Help></Help>
+  <Area name="Crateria" tab="SM">
+    <Loc>Crateria West</Loc>
+    <Loc>Crateria Central</Loc>
+    <Loc>Brinstar Blue</Loc>
+    <SubLoc>Missile (Crateria moat)</SubLoc>
+  </Area>
+  <Area name="Wrecked Ship" tab="SM">
+    <Loc>Crateria East</Loc>
+    <Loc>Wrecked Ship</Loc>
+  </Area>
+  <Area name="Brinstar" tab="SM">
+    <Loc>Brinstar Green</Loc>
+    <Loc>Brinstar Pink</Loc>
+  </Area>
+  <Area name="Red tower &amp; kraid" tab="SM">
+    <Loc>Brinstar Red</Loc>
+    <Loc>Brinstar Kraid</Loc>
+  </Area>
+  <Area name="West Maridia" tab="SM">
+    <Loc>Maridia Outer</Loc>
+    <SubLoc>Super Missile (yellow Maridia)</SubLoc>
+    <SubLoc>Missile (yellow Maridia super missile)</SubLoc>
+    <SubLoc>Missile (yellow Maridia false wall)</SubLoc>
+  </Area>
+  <Area name="East Maridia" tab="SM">
+    <Loc>Maridia Inner</Loc>
+    <SubLoc>Plasma Beam</SubLoc>
+    <SubLoc>Spring Ball</SubLoc>
+    <SubLoc>Missile (Draygon)</SubLoc>
+    <SubLoc>"Energy Tank, Botwoon"</SubLoc>
+    <SubLoc>Space Jump</SubLoc>
+  </Area>
+  <Area name="Upper Norfair" tab="SM">
+    <Loc>Norfair Upper West</Loc>
+    <Loc>Norfair Upper East</Loc>
+    <SubLoc>Missile (above Crocomire)</SubLoc>
+  </Area>
+  <Area name="Lower Norfair" tab="SM">
+    <Loc>Norfair Lower West</Loc>
+    <Loc>Norfair Lower East</Loc>
+  </Area>
+  <Area name="Crocomire" tab="SM">
+    <Loc>Norfair Upper Crocomire</Loc>
+  </Area>
+  <Area name="Kakariko Village" tab="ALTTP">
+    <SubLoc>Kakariko Well - Top</SubLoc>
+    <SubLoc>Kakariko Well - Left</SubLoc>
+    <SubLoc>Kakariko Well - Middle</SubLoc>
+    <SubLoc>Kakariko Well - Right</SubLoc>
+    <SubLoc>Kakariko Well - Bottom</SubLoc>
+    <SubLoc>Blind's Hideout - Top</SubLoc>
+    <SubLoc>Blind's Hideout - Far Left</SubLoc>
+    <SubLoc>Blind's Hideout - Left</SubLoc>
+    <SubLoc>Blind's Hideout - Right</SubLoc>
+    <SubLoc>Blind's Hideout - Far Right</SubLoc>
+    <SubLoc>Bottle Merchant</SubLoc>
+    <SubLoc>Chicken House</SubLoc>
+    <SubLoc>Sick Kid</SubLoc>
+    <SubLoc>Kakariko Tavern</SubLoc>
+    <SubLoc>Magic Bat</SubLoc>
+    <SubLoc>Blacksmith</SubLoc>
+    <SubLoc>Maze Race</SubLoc>
+    <SubLoc>Library</SubLoc>
+  </Area>
+  <Area name="West LW" tab="ALTTP">
+    <Loc>Castle Tower</Loc>
+    <Loc>Hyrule Castle</Loc>
+    <SubLoc>King's Tomb</SubLoc>
+    <SubLoc>Graveyard Ledge</SubLoc>
+    <SubLoc>Pegasus Rocks</SubLoc>
+    <SubLoc>Lumberjack Tree</SubLoc>
+    <SubLoc>Master Sword Pedestal</SubLoc>
+    <SubLoc>Mushroom</SubLoc>
+    <SubLoc>Lost Woods Hideout</SubLoc>
+    <SubLoc>Flute Spot</SubLoc>
+    <SubLoc>South of Grove</SubLoc>
+    <SubLoc>Link's House</SubLoc>
+    <SubLoc>Floodgate Chest</SubLoc>
+    <SubLoc>Sunken Treasure</SubLoc>
+    <SubLoc>Purple Chest</SubLoc>
+  </Area>
+  <Area name="East LW" tab="ALTTP">
+    <Loc>Light World North East</Loc>
+    <Loc>Eastern Palace</Loc>
+    <SubLoc>Lake Hylia Island</SubLoc>
+    <SubLoc>Hobo</SubLoc>
+    <SubLoc>Ice Rod Cave</SubLoc>
+    <SubLoc>Mini Moldorm Cave - Far Left</SubLoc>
+    <SubLoc>Mini Moldorm Cave - Left</SubLoc>
+    <SubLoc>Mini Moldorm Cave - NPC</SubLoc>
+    <SubLoc>Mini Moldorm Cave - Right</SubLoc>
+    <SubLoc>Mini Moldorm Cave - Far Right</SubLoc>
+  </Area>
+  <Area name="Desert" tab="ALTTP">
+    <Loc>Desert Palace</Loc>
+    <SubLoc>Aginah's Cave</SubLoc>
+    <SubLoc>Desert Ledge</SubLoc>
+    <SubLoc>Checkerboard Cave</SubLoc>
+    <SubLoc>Bombos Tablet</SubLoc>
+  </Area>
+  <Area name="Death Mountain" tab="ALTTP">
+    <Loc>Light World Death Mountain West</Loc>
+    <Loc>Light World Death Mountain East</Loc>
+    <Loc>Tower of Hera</Loc>
+  </Area>
+  <Area name="West DW" tab="ALTTP">
+    <Loc>Skull Woods</Loc>
+    <Loc>Thieves' Town</Loc>
+    <SubLoc>Bumper Cave</SubLoc>
+    <SubLoc>Chest Game</SubLoc>
+    <SubLoc>C-Shaped House</SubLoc>
+    <SubLoc>Brewery</SubLoc>
+    <SubLoc>Hammer Pegs</SubLoc>
+    <SubLoc>Digging Game</SubLoc>
+    <SubLoc>Stumpy</SubLoc>
+  </Area>
+  <Area name="East DW" tab="ALTTP">
+    <Loc>Dark World North East</Loc>
+    <Loc>Palace of Darkness</Loc>
+  </Area>
+  <Area name="Dark Swamp" tab="ALTTP">
+    <Loc>Swamp Palace</Loc>
+    <Loc>Ice Palace</Loc>
+    <SubLoc>Hype Cave - Top</SubLoc>
+    <SubLoc>Hype Cave - Middle Right</SubLoc>
+    <SubLoc>Hype Cave - Middle Left</SubLoc>
+    <SubLoc>Hype Cave - Bottom</SubLoc>
+    <SubLoc>Hype Cave - NPC</SubLoc>
+  </Area>
+  <Area name="Misery Mire" tab="ALTTP">
+    <Loc>Dark World Mire</Loc>
+    <Loc>Misery Mire</Loc>
+  </Area>
+  <Area name="Dark Death Mountain" tab="ALTTP">
+    <Loc>Dark World Death Mountain West</Loc>
+    <Loc>Dark World Death Mountain East</Loc>
+    <Loc>Turtle Rock</Loc>
+  </Area>
+  <Area name="Ganon's Tower" tab="ALTTP">
+    <Loc>Ganon's Tower</Loc>
+  </Area>
+</Areas>
